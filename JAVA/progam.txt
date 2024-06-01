@@ -1,0 +1,2 @@
+Q1. Write a Java progeamme to print user entered integer is a number or digit.
+
